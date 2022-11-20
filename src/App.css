@@ -1,0 +1,65 @@
+.App {
+margin-left: 20px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.firstSection{
+  display: flex;
+}
+ul li{
+  list-style: none;
+}
+.secondSection{
+  display: flex;
+}
+.thridSection{
+  display: flex;
+}
+.fouth-right{
+  margin-left: 37px;
+  margin-top: -43px;
+}
+.fivthSection{
+  display: flex;
+}
+.rightfirst{
+  margin-left: -40px;
+}
+.rightfirst2{
+  margin-left: -40px;
+}
+.rightfirst3{
+  margin-left: -40px;
+}
+.rightfirst5{
+  margin-left: -40px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
